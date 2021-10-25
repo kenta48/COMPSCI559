@@ -4,3 +4,30 @@
 [submodule "wb02"]
 	path = wb02
 	url = https://github.com/CS559-Spring21/wb02-kenta48.git
+[submodule "wb03"]
+	path = wb03
+	url = https://github.com/CS559-Spring21/wb03-kenta48.git
+[submodule "wb04"]
+	path = wb04
+	url = https://github.com/CS559-Spring21/wb04-kenta48.git
+[submodule "wb05"]
+	path = wb05
+	url = https://github.com/CS559-Spring21/wb05-kenta48.git
+[submodule "wb06"]
+	path = wb06
+	url = https://github.com/CS559-Spring21/wb06-kenta48.git
+[submodule "wb07"]
+	path = wb07
+	url = https://github.com/CS559-Spring21/wb07-kenta48.git
+[submodule "wb08"]
+	path = wb08
+	url = https://github.com/CS559-Spring21/wb08-kenta48.git
+[submodule "wb09"]
+	path = wb09
+	url = https://github.com/CS559-Spring21/wb09-kenta48.git
+[submodule "wb11"]
+	path = wb11
+	url = https://github.com/CS559-Spring21/wb11-kenta48.git
+[submodule "wb12"]
+	path = wb12
+	url = https://github.com/CS559-Spring21/wb12-kenta48.git
